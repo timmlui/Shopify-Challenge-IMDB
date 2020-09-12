@@ -15,6 +15,8 @@ const { useState, useEffect } = React;
 
 /*
 
+Deployed via Netlify: https://shopify-challenge-timmlui.netlify.app
+
 Author's Notes:
   I took the inspiration from oscar.go.com/nominees, seeming their theme and design fit for this scenario with
   IMDB film nominations. Worked on it over the span of 4 days (Dated Sept 7, 2020). Even if I do not considered,
@@ -24,7 +26,9 @@ Author's Notes:
   Timothy Lui
 
 Consume the following endpoint:
-http://www.omdbapi.com/
+http://www.omdbapi.com/?apikey=[yourkey]&
+
+If run locally, create .env.local file with REACT_APP_OMDB_API_KEY=[apikey]
 
 Using React 16:
 
