@@ -59,7 +59,7 @@ To-Do: (didnt have enough time)
 
 */
 
-const url = 'http://www.omdbapi.com/?apikey=' + process.env.REACT_APP_OMDB_API_KEY;
+const url = 'https://www.omdbapi.com/?apikey=' + process.env.REACT_APP_OMDB_API_KEY;
 
 // Modal Component
 const Modal = (props) => {
