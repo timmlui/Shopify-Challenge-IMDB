@@ -16,6 +16,8 @@ http://www.omdbapi.com/?apikey=[yourkey]&
 
 If run locally, create .env.local file with REACT_APP_OMDB_API_KEY=[apikey]
 
+Mockup: https://wireframepro.mockflow.com/editor.jsp?editor=on&bgcolor=white&perm=Create&ptitle=OMDB-shopify-challenge-2&category=bootstrap4&projectid=Md07fd85b0e7992c5bd4998c09b9ec2dc1599344688592&publicid=d5a8b18382174b4badb8cc396361e56e#/page/fdf65f47dc9d4852a592d171183ff0e8
+
 Using React 16:
 
 - Search OMDB and display the results (movies only)
